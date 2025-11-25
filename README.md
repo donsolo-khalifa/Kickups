@@ -2,6 +2,8 @@
 
 A Python-based computer vision system that automatically counts football kick-ups by detecting ball-foot contact using pose estimation and object detection. The system provides real time visualization with distance tracking and kick counting.
 
+**Demo Post:** [Click here to watch the demo](https://www.linkedin.com/posts/ahmad-baba-abdullah-5b26ab122_machinelearning-footballanalysis-computervision-activity-7366363067850383362-ajkw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB5b35YBR1qnbXd8vuJWhm93Xle_ksmkddY)
+
 ![Kick-up Counter Demo](thumbnail.png)
 
 ## Overview
